@@ -1,4 +1,4 @@
-# sportstore
+# vue-laravel book store
 
 ## Git Clone
 ## db setup
